@@ -5,6 +5,9 @@ description: "To get started with intermediate R, enroll in this Intermediate R 
 staff:
     - name: Nadia Muhe
       link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 created_date: 2023-02-27
 permalink: "/"  #! Remove this if not the homepage
 ---
