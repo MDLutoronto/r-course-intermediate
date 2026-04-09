@@ -198,5 +198,3 @@ Resources mentioned in the course:
 * GGPLOT2 website: [https://ggplot2.tidyverse.org/reference/](https://ggplot2.tidyverse.org/reference/)
 * GGPLOT2 documentation: [https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
 * DPLYR documentation: [https://cran.r-project.org/web/packages/dplyr/dplyr.pdf](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)
-
-Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization), [Cleaning data](https://mdl.library.utoronto.ca/technique/cleaning-data), [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [R](https://mdl.library.utoronto.ca/tools/r-0)
