@@ -20,7 +20,7 @@ This course has multiple modules. Each module consists of a few videos. It will 
 
 #### **Module 1: Getting Started**
 
-Welcome (2 min)  
+[Welcome (2 min)](https://play.library.utoronto.ca/watch/ec496805e67adad7e4b8879587a3f7cd)
 <iframe
   width="100%"
   height=650
@@ -29,7 +29,7 @@ Welcome (2 min)
   allowfullscreen>
 </iframe>
 
-Setup (3 min)
+[Setup (3 min)](https://play.library.utoronto.ca/watch/e2884bfa486d3aaa09d1159a74c7dd0a)
 <iframe
   width="100%"
   height=650
@@ -40,7 +40,7 @@ Setup (3 min)
 
 #### **Module 2: Reshaping Data**
 
-Reshaping Data - part 1 (9 min) 
+[Reshaping Data - part 1 (9 min)](https://play.library.utoronto.ca/watch/0499e9c79eb8e062323d6771a0e79ac6)
 <iframe
   width="100%"
   height=650
@@ -49,7 +49,7 @@ Reshaping Data - part 1 (9 min)
   allowfullscreen>
 </iframe>
 
-Reshaping Data - part 2 (9 min)
+[Reshaping Data - part 2 (9 min)](https://play.library.utoronto.ca/watch/8105b9d04b777ba03b926f7e2ea61012)
 <iframe
   width="100%"
   height=650
@@ -61,7 +61,7 @@ Reshaping Data - part 2 (9 min)
 
 #### **Module 3: DPLYR**
 
-DPLYR - part 1 (10 min)  
+[DPLYR - part 1 (10 min)](https://play.library.utoronto.ca/watch/1b5d1a583dfb2753329a961a4969881b)
 <iframe
   width="100%"
   height=650
@@ -69,7 +69,7 @@ DPLYR - part 1 (10 min)
   allowfullscreen>
 </iframe>
 
-DPLYR - part 2 (10 min)
+[DPLYR - part 2 (10 min)](https://play.library.utoronto.ca/watch/4f2b55b2c8018123f623216f5518b3bf)
 <iframe
   width="100%"
   height=650
@@ -80,7 +80,7 @@ DPLYR - part 2 (10 min)
 
 #### **Module 4: If Statements**
 
-If Statements - part 1 (7 min)
+[If Statements - part 1 (7 min)](https://play.library.utoronto.ca/watch/79c0fb078b4c980f028b098ede7c37cc)
 <iframe
   width="100%"
   height=650
@@ -89,7 +89,7 @@ If Statements - part 1 (7 min)
   allowfullscreen>
 </iframe>
 
-If Statements - part 2 (9 min)
+[If Statements - part 2 (9 min)](https://play.library.utoronto.ca/watch/fdfe1bd637ec20df2aa8a237e4b5cd7a)
 <iframe
   width="100%"
   height=650
@@ -101,7 +101,7 @@ If Statements - part 2 (9 min)
 
 #### **Module 5: For Loops**
 
-For Loops - part 1 (8 min)  
+[For Loops - part 1 (8 min)](https://play.library.utoronto.ca/watch/5cb4ffc71a9ffcc027377b52be99cbde)
 <iframe
   width="100%"
   height=650
@@ -110,7 +110,7 @@ For Loops - part 1 (8 min)
   allowfullscreen>
 </iframe>
 
-For Loops - part 2 (12 min)
+[For Loops - part 2 (12 min)](https://play.library.utoronto.ca/watch/1aeb0016bd01132b622441c34a09c437)
 <iframe
   width="100%"
   height=650
@@ -122,7 +122,7 @@ For Loops - part 2 (12 min)
 
 #### **Module 6: Functions**
 
-Functions - part 1 (8 min)  
+[Functions - part 1 (8 min)](https://play.library.utoronto.ca/watch/ff051ca3ef718b1b88df74dba5a100f5)
 <iframe
   width="100%"
   height=650
@@ -131,7 +131,7 @@ Functions - part 1 (8 min)
   allowfullscreen>
 </iframe>
 
-Functions - part 2 (5 min)  
+[Functions - part 2 (5 min)](https://play.library.utoronto.ca/watch/0f5cd66981479c5d3fda0c177fb9e092)
 <iframe
   width="100%"
   height=650
@@ -140,7 +140,7 @@ Functions - part 2 (5 min)
   allowfullscreen>
 </iframe>
 
-Functions - part 3 (9 min)  
+[Functions - part 3 (9 min)](https://play.library.utoronto.ca/watch/cddd8ab5d7e33287e192f12603d817e3)
 <iframe
   width="100%"
   height=650
@@ -149,7 +149,7 @@ Functions - part 3 (9 min)
   allowfullscreen>
 </iframe>
 
-PURRR (5 min)
+[PURRR (5 min)](https://play.library.utoronto.ca/watch/2f333d06c4c7d7497c89e4acd4a3d383)
 <iframe
   width="100%"
   height=650
@@ -161,7 +161,7 @@ PURRR (5 min)
 
 #### **Module 7: GGPLOT2**
 
-GGPLOT2 - part 1 (11 min)  
+[GGPLOT2 - part 1 (11 min)](https://play.library.utoronto.ca/watch/2d9e26750d20eac253ea839e1ac6f559)
 <iframe
   width="100%"
   height=650
@@ -170,7 +170,7 @@ GGPLOT2 - part 1 (11 min)
   allowfullscreen>
 </iframe>
 
-GGPLOT2 - part 2 (11 min)
+[GGPLOT2 - part 2 (11 min)](https://play.library.utoronto.ca/watch/021e89e5647af03af470de89fca1b7d6)
 <iframe
   width="100%"
   height=650
@@ -182,7 +182,7 @@ GGPLOT2 - part 2 (11 min)
 
 #### **Module 8: Conclusion**
 
-Conclusion (2 min)
+[Conclusion (2 min)](https://play.library.utoronto.ca/watch/0246ded49751c516a8cd5c2f463165a4)
 <iframe
   width="100%"
   height=650
