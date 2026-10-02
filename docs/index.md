@@ -16,7 +16,7 @@ permalink: "/"  #! Remove this if not the homepage
 
 To get started with intermediate R, enroll in this *[Intermediate R](https://q.utoronto.ca/courses/233262/assignments/syllabus)* quercus course [here](https://q.utoronto.ca/enroll/GCPRD3). To enroll, you will need to use your UTORid login. This course consists of demonstration videos. By enrolling in this course, you can keep track of your progress! If you are a member of the public and you do not have a UTORid login, you can access the videos in the following guide below.
 
-This course has multiple modules. Each module consists of a few videos. It will take approximately 2 hours to watch the videos. You can watch the videos by clicking on the topic title hyperlink under each module. If you need assistance, fill out the [support request form](https://mdl.library.utoronto.ca/research/help). Enjoy!
+This course has multiple modules. Each module consists of a few videos. It will take approximately 2 hours to watch the videos. You can watch the videos by clicking on the topic title hyperlink under each module. If you need assistance, fill out the [support request form](https://library.utoronto.ca/contact-us/data-maps). Enjoy!
 
 #### **Module 1: Getting Started**
 
